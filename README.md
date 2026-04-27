@@ -1,7 +1,7 @@
 # Carrera Lap Timer (Arduino + LCD)
 
 <p align="center">
-  <img src="media/front.jpg" alt="image" width="500"/>
+  <img src="media/front.JPG" alt="image" width="500"/>
 </p>
 
 This project implements a lap timing system for Carrera racing tracks using an Arduino and a 16x2 LCD display. It measures lap times for two cars via serial communication with the Carrera Control Unit and highlights the fastest lap.
