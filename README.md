@@ -6,6 +6,8 @@
 
 This project implements a lap timing system for Carrera racing tracks using an Arduino and a 16x2 LCD display. It measures lap times for two cars via serial communication with the Carrera Control Unit and highlights the fastest lap.
 
+[Youtube](https://www.youtube.com/watch?v=70VTexHIWYs)
+
 ## Overview
 
 The system listens to serial data from the Carrera Control Unit, detects when a car crosses the sensor, and calculates lap times using `millis()`. Each lap is displayed in real time, and the fastest lap is tracked and shown on the display.
